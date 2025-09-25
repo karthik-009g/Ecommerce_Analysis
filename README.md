@@ -35,7 +35,7 @@ This project performs **Exploratory Data Analysis (EDA) and Customer Segmentatio
 ## 🛠 Tools & Technologies
 - **Programming Language:** Python 3.x  
 - **Libraries:** pandas, numpy, matplotlib, seaborn, scikit-learn, openpyxl  
-- **Environment:** Jupyter Notebook / Google Colab  
+- **Environment:** Jupyter Notebook 
 
 ---
 
