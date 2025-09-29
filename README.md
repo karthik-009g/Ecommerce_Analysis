@@ -4,8 +4,7 @@
 
 ## 📌 Project Overview
 This project performs **Exploratory Data Analysis (EDA) and Customer Segmentation** on the Online Retail dataset, which contains transactional data for a UK-based online retail store. The objective is to extract actionable business insights, analyze customer behavior, and prepare the dataset for potential predictive modeling.
-  
----
+    
 
 ## 🗂 Dataset
 - **Source:** [UCI Machine Learning Repository](https://archive.ics.uci.edu/ml/datasets/online+retail)  
@@ -13,7 +12,6 @@ This project performs **Exploratory Data Analysis (EDA) and Customer Segmentatio
 - **Columns:** 8 (`InvoiceNo`, `StockCode`, `Description`, `Quantity`, `InvoiceDate`, `UnitPrice`, `CustomerID`, `Country`)  
 - **Description:** Each row represents a transaction, including product purchased, quantity, customer, and country.
 
----
 
 ## 🎯 Project Objectives
 1. **Exploratory Data Analysis (EDA)**
@@ -30,14 +28,14 @@ This project performs **Exploratory Data Analysis (EDA) and Customer Segmentatio
    - Optional: Market basket analysis using association rules.
    - Optional: Monthly sales forecasting.
 
----
+
 
 ## 🛠 Tools & Technologies
 - **Programming Language:** Python 3.x  
 - **Libraries:** pandas, numpy, matplotlib, seaborn, scikit-learn, openpyxl  
 - **Environment:** Jupyter Notebook 
 
----
+
 
 ## 📁 Project Structure
 Ecommerce_Analysis/
