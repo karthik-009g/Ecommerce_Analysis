@@ -2,7 +2,7 @@
   
 # E-commerce Customer Analytics: Online Retail Dataset 
 
-## 📌 Project Overview   
+## 📌 Project Overview     
 This project performs **Exploratory Data Analysis (EDA) and Customer Segmentation** on the Online Retail dataset, which contains transactional data for a UK-based online retail store. The objective is to extract actionable business insights, analyze customer behavior, and prepare the dataset for potential predictive modeling.
     
   
