@@ -50,3 +50,6 @@ Ecommerce_Analysis/
 │ └── utils.py
 ├── models/ 
 ├── README.md
+
+
+this aims to improve and add new features
