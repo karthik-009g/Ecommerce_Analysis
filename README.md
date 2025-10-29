@@ -52,4 +52,4 @@ Ecommerce_Analysis/
 ├── README.md
 
 this is update where i completed eda on the dataset
-this aims to improve and add new features
+
