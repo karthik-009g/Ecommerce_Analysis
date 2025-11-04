@@ -50,6 +50,6 @@ Ecommerce_Analysis/
 │ └── utils.py
 ├── models/ 
 ├── README.md
-
+ 
 this is update where i completed eda on the dataset
 
